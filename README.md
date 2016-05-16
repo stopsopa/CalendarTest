@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/stopsopa/CalendarTest.svg?branch=master)](https://travis-ci.org/stopsopa/CalendarTest)
+
+[![Coverage Status](https://coveralls.io/repos/github/stopsopa/CalendarTest/badge.svg?branch=master)](https://coveralls.io/github/stopsopa/CalendarTest?branch=master)
+
+
+
 Fork this repo and write a Calendar class which implements the CalendarInterface and pass all the unit tests.
 
 The Calendar class should accept any DateTimeInterface implementation and based on that you have to "draw" the current month and highlight the previous week. Instead of actually drawing it, the getCalendar method should just return an array.
