@@ -1,8 +1,5 @@
 [![Build Status](https://travis-ci.org/stopsopa/CalendarTest.svg?branch=master)](https://travis-ci.org/stopsopa/CalendarTest)
-
 [![Coverage Status](https://coveralls.io/repos/github/stopsopa/CalendarTest/badge.svg?branch=master)](https://coveralls.io/github/stopsopa/CalendarTest?branch=master)
-
-
 
 Fork this repo and write a Calendar class which implements the CalendarInterface and pass all the unit tests.
 

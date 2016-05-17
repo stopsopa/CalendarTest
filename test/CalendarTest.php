@@ -14,10 +14,6 @@ class CalendarTest extends PHPUnit_Framework_TestCase
 
     /**
      * @dataProvider dataProvider
-     */
-
-    /**
-     * @dataProvider dataProvider
      *
      * @param string $date
      * @param int    $day

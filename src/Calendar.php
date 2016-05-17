@@ -51,7 +51,8 @@ class Calendar implements CalendarInterface {
      * @return int
      */
     public function getFirstWeek() {
-
+        $date = new DateTime($this->datetime->format('Y-m-').'1');
+        return intval($date->format('W'));
     }
 
     /**
